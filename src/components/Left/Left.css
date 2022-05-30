@@ -1,0 +1,12 @@
+.left_img {
+  width: 200px;
+  height: 100px;
+  margin-right: 0px;
+}
+.G_left {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+}
+.title_left {
+  text-align: left;
+}

@@ -1,0 +1,16 @@
+.content_img {
+  width: 250px;
+  height: 150px;
+}
+.G_content {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+}
+.title {
+  height: 100%;
+}
+.title_content {
+  margin-top: 15px;
+  padding-top: 0px;
+  text-align: left;
+}
